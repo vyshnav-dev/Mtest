@@ -1,0 +1,24 @@
+.main{
+    width: 500px;
+    height: 800px;
+    background-color: bisque;
+   
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.first{
+    display: flex;
+    gap: 31px;
+}
+.first1{
+    display: flex;
+    gap: 46px;
+}
+.first2{
+    display: flex;
+    gap: 37px;
+}
